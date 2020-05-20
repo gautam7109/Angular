@@ -1,0 +1,55 @@
+.topcolor {
+    
+    background-color: gray;
+    padding: 50px;
+}
+
+.top1color {
+   
+    background-color: lightgray;
+    padding: 20px;
+}
+.top2color {
+   
+    background-color: gray;
+    padding: 10px;
+}
+
+.centre {
+    text-align: center
+}
+
+.padding {
+   
+    background-color: white;
+
+    padding: 50px;
+    width: 550px;
+    float: left;
+    height: 900px;
+    
+}
+.paddingl {
+   
+    background-color: white;
+    border-left: 1px solid black;
+    
+    padding: 50px;
+    width: 550px;
+    margin-left: 675px;
+    height: 900px;
+}
+
+.title{
+    position:absolute;
+    width: 500px;
+    background-color:#f8ac07;
+    margin-top:90px;
+    margin-left:430px;
+    margin-right:600px;
+    text-align:center;
+    font-size:50px;
+    height:60px;
+    border-radius: 2px;
+
+}
